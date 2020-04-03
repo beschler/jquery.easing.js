@@ -1,5 +1,5 @@
 # jQuery Easing
-Add easing functions to jQuery.
+Add easing functions to jQuery. Based on easing equations from Robert Penner.
 
 ## Install
 1. Include jQuery:
@@ -30,6 +30,7 @@ $('#el').stop(true, false).animate({
 ```
 
 ## Reference
+- http://www.robertpenner.com/easing
 - https://jquery.com
 - https://code.jquery.com
 - https://easings.net
